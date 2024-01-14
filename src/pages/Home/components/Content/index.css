@@ -1,0 +1,108 @@
+.content {
+  width: 1150px;
+  background-color: rgba(28, 28, 30);
+  height: 492px;
+}
+
+p {
+  color: white;
+}
+
+div {
+  color: white;
+}
+
+.content-show {
+  padding-top: 40px;
+  padding-left: 35px;
+}
+
+.content-title {
+  font-size: 20px;
+}
+
+.content-top {
+  margin-top: 15px;
+  width: 1080px;
+  height: 220px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.content-bottom {
+  margin-top: 15px;
+  width: 1080px;
+  height: 160px;
+  display: flex;
+}
+
+.air {
+  background-color: black;
+  height: 220px;
+  width: 530px;
+}
+
+.air-title {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.air-show {
+  display: flex;
+  margin-top: 15px;
+  margin-left: 20px;
+  justify-content: space-around;
+  
+}
+
+.air-list {
+  width: 135px;
+  height: 150px;
+}
+
+.sun {
+  background-color: black;
+  height: 220px;
+  width: 530px;
+}
+
+.sun-title {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.sun-list {
+  width: 220px;
+  height: 150px;
+}
+
+.air-name {
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+  margin-top: 15px;
+}
+
+.air-number {
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  margin-top: 15px;
+}
+
+.content-bottom-show {
+  font-size: 30px;
+  margin-top: 50px;
+  margin-left: 40px;
+}
+
+.content-bottom {
+  background-color: black;
+}
+
+.air-level {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  margin-top: 30px;
+}

@@ -1,0 +1,38 @@
+.siderbottom {
+  background-color: rgba(28, 28, 30);
+  height: 338px;
+  width: 364px;
+}
+
+.footsec-img {
+  width: 35px;
+}
+
+.footsec {
+  display: flex;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.foot-showlist {
+  padding-top: 40px;
+  padding-left: 35px;
+}
+
+.footsec-temp {
+  height: 35px;
+  width: 25px;
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+.footsec-data {
+  margin-left: 45px;
+  margin-top: 5px;
+  font-size: 15px;
+}
+
+.footsec-day {
+  margin-left: 45px;
+  margin-top: 5px;
+}

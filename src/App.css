@@ -1,0 +1,52 @@
+.middle {
+  display: flex;
+}
+
+.left {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.bottom-title {
+  height: 60px;
+  width: 364px;
+  font-size: 25px;
+  color: white;
+  align-items: center;
+  display: flex;
+}
+
+.footer-title {
+  height: 60px;
+  width: 1150px;
+}
+
+.foot-node {
+  height: 106px;
+  width: 1150px;
+}
+
+.right {
+  overflow: scroll;
+  height: 776px;
+}
+
+.whole {
+  background-color: black
+}
+
+.footer-title {
+  color: white;
+  align-items: center;
+  display: flex;
+}
+
+.foot-node {
+  color: white;
+  align-items: center;
+  display: flex;
+}
+
+*{
+  border-radius: 25px;
+}

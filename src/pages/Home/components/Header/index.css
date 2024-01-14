@@ -1,0 +1,60 @@
+.search {
+  width: 514px;
+  height: 58px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 40px;
+  margin-top: 32px;
+  position: absolute;
+  background-color: rgba(28, 28, 30);
+  color: white;
+}
+
+.header {
+  display: flex;
+  height: 140px;
+  position: relative;
+}
+
+.image {
+  height: 6vh;
+  /* width: 3vw; */
+  border-radius: 100%;
+  margin-top: 40px;
+  margin-left: 70px;
+}
+
+.word {
+  margin-top: 50px;
+  margin-left: 20px;
+  font-size: 25px;
+}
+
+.ant-input::placeholder {  
+  color: white; /* 修改 placeholder 的颜色 */  
+  font-size: 14px; /* 修改 placeholder 的字体大小 */  
+  font-style: italic; /* 修改 placeholder 的字体样式 */  
+}
+
+.city-search {
+  display: flex;
+}
+
+.city-list {
+  width: 470px;
+  left: 50%;
+  transform: translateX(-50%);
+  position: absolute;
+  margin-top: 90px; 
+}
+
+.cityshow {
+  width: 450px;
+  height: 35px;
+  padding-left: 15px;
+  display: flex;
+  line-height: 32px;
+  border: 1px solid white;
+  background-color: rgba(28, 28, 30);
+}
+
